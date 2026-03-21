@@ -1,0 +1,8 @@
+# Dataset and generated data
+data/
+
+# Python virtual environments
+.venv*
+**/.venv*
+
+.vscode/
